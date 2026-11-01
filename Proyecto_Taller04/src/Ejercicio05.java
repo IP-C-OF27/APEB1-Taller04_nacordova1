@@ -30,5 +30,12 @@ public class Ejercicio05 {
 
 /***
  * EVIDENCIA DEL RUN:
- * Pegue aquí la evidencia de la ejecución del .java
+ * run:
+Ingrese el valor del CPU: 250
+Ingrese el valor del teclado: 60
+Ingrese el valor de la pantalla: 200
+Ingrese el valor del raton: 25
+El costo de la computadora es : 535.0
+BUILD SUCCESSFUL (total time: 15 seconds)
+
  */
