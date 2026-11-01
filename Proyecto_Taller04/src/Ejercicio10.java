@@ -38,14 +38,20 @@ public class Ejercicio10 {
         areaD = lado * altura;
         System.out.println("Area del rectangulo D es : " + areaD);
         areaTotal = areaA + areaB + areaC + areaD + areaE;
-        System.out.println("El area total es : " + areaTotal);
-        
-                
+        System.out.println("El area total es : " + areaTotal);           
     }
-    
 }
 
 /***
  * EVIDENCIA DEL RUN:
- * Pegue aquí la evidencia de la ejecución del .java
+ * run:
+Ingrese el lado del cuadrado: 4
+Ingrese la altura de los triangulos: 2
+Area del cuadrado A es : 16.0
+Area del triangulo B es : 4.0
+Area del triangulo C es : 4.0
+Area del triangulo E es : 4.0
+Area del rectangulo D es : 8.0
+El area total es : 36.0
+BUILD SUCCESSFUL (total time: 6 seconds)
  */
